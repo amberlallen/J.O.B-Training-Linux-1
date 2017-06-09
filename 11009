@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<item>
+    <id>11009</id>
+    <lastUpdated>2014-10-01</lastUpdated>
+    <title>Protein Colloidal Aggregation Project</title>
+    <status>Completed</status>
+    <type>Project</type>
+    <abstract>&lt;p&gt;Finding an optimal treatment for any disease&amp;nbsp;is impossible until we fully understand its&amp;nbsp;cause. We believe the central problem in&amp;nbsp;obtaining this understanding is that the&amp;nbsp;most commonly proposed models for amyloid&amp;nbsp;aggregation may be incorrect, and that the&amp;nbsp;process is not fundamentally biological. We plan to&amp;nbsp;investigate the pathways and kinetics of protein aggregation to allow accurate predictive modeling of the process and evaluation of potential inhibitors to prevalent diseases including cataract formation, chronic traumatic encephalopathy, Alzheimer&amp;rsquo;s Disease, Parkinson&amp;rsquo;s Disease and others.&lt;/p&gt;</abstract>
+    <fullDescription>&lt;p&gt;The goal of the Protein Colloidal Aggregation project is to understand the underlying&amp;nbsp;cause of several major diseases, including&amp;nbsp;Alzheimer&amp;rsquo;s, Parkinson&amp;rsquo;s, and chronic&amp;nbsp;traumatic encephalopathy. These diseases&amp;nbsp;all occur when protein molecules undergo&amp;nbsp;a peculiar and irreversible process in which&amp;nbsp;they aggregate to form tiny fibers of a unique&amp;nbsp;material called amyloid, which the body&amp;nbsp;cannot remove.&amp;nbsp;Despite enormous investment in research,&amp;nbsp;the fundamental physiochemical mechanism of&amp;nbsp;these diseases remains poorly understood.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Based on initial studies using atomic force microscopy (AFM), we theorized that the aggregation of proteins in these diseases is driven instead by colloidal interactions, the same forces that govern the behavior&amp;nbsp;of nanoscale particles in the colloidal suspensions we encounter every day, such as paint, milk, and clouds.&lt;/p&gt;&lt;p&gt;Our theory is being validated by the evidence. For many years, NASA has been heavily involved in research into the structure of proteins and their assembly into crystals, and in studying the colloidal interactions and aggregation of nanoscale particles. To date, however, NASA&amp;rsquo;s colloid research has involved&amp;nbsp;only nonbiological materials.&amp;nbsp;But now we&amp;nbsp;are bridging these two fields by studying the colloidal aggregation of proteins.&lt;/p&gt;</fullDescription>
+    <library>
+        <libraryItem>
+            <id>1239</id>
+            <title>AFM Image</title>
+            <type>Image</type>
+            <files>
+                <file>
+                    <id>2656</id>
+                    <url>https://techport.nasa.gov:443/file/2656</url>
+                    <size>38710</size>
+                    <caption>Atomic Force Microscopy of Lysozyme Fibers Forming a Molecular Network</caption>
+                </file>
+            </files>
+        </libraryItem>
+        <libraryItem>
+            <id>610</id>
+            <title>Protein Colloidal Aggregation</title>
+            <type>Image</type>
+            <files>
+                <file>
+                    <id>2125</id>
+                    <url>https://techport.nasa.gov:443/file/2125</url>
+                    <size>39777</size>
+                    <caption>Protein Colloidal Aggregation</caption>
+                </file>
+            </files>
+        </libraryItem>
+        <libraryItem>
+            <id>1238</id>
+            <title>SEM Image</title>
+            <type>Image</type>
+            <files>
+                <file>
+                    <id>2655</id>
+                    <url>https://techport.nasa.gov:443/file/2655</url>
+                    <size>1312442</size>
+                    <caption>Scanning Electron Micrograph of Amyloid Gel</caption>
+                </file>
+            </files>
+        </libraryItem>
+    </library>
+    <technologies>
+        <technology>
+            <id>1046255</id>
+            <title>Mechanisms and Techniques to Study Protein Colloidal Aggregation and Its Effects</title>
+            <classification>This technology is categorized as a hardware system for other applications</classification>
+            <description>&lt;p&gt;The goal of the Protein Colloidal Aggregation project is to understand the underlying&amp;nbsp;cause of several major diseases, including&amp;nbsp;Alzheimer&amp;rsquo;s, Parkinson&amp;rsquo;s, and chronic&amp;nbsp;traumatic encephalopathy. These diseases&amp;nbsp;all occur when protein molecules undergo&amp;nbsp;a peculiar and irreversible process in which&amp;nbsp;they aggregate to form tiny fibers of a unique&amp;nbsp;material called amyloid, which the body&amp;nbsp;cannot remove.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Despite enormous investment in research,&amp;nbsp;the fundamental physiochemical mechanism of&amp;nbsp;these diseases remains poorly understood.&amp;nbsp;Finding an optimal treatment for any disease&amp;nbsp;is impossible until we fully understand its&amp;nbsp;cause. We believe the central problem in&amp;nbsp;obtaining this understanding is that the&amp;nbsp;most commonly proposed models for amyloid&amp;nbsp;aggregation may be incorrect, and that the&amp;nbsp;process is not fundamentally biological.&lt;/p&gt;</description>
+            <capabilitiesProvided>&lt;p&gt;NASA has a lot of background and experience in colloidal chemistry and crystal chemistry so this is a perfect opportunity to use that past experience, along with NASA&amp;#39;s knowledge, equipment, and capabilities to evaluate whether this theory could indeed cause the kinds of changes in cells associated with these diseases and thereby allow a different approach by the pharmaceutical and medical industries to potentially come up with new treatments for these diseases.&amp;nbsp;The use of atomic force microscopy and scanning electron microscopy in the evaluation of protein colloidal aggregates and macromolecular networks.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</capabilitiesProvided>
+            <potentialApplications>&lt;p&gt;Potential applications for this technology includes:&lt;/p&gt;&lt;ol&gt;&lt;li&gt;The capability to observe colloidal aggregation of proteins in microgravity.&lt;/li&gt;&lt;li&gt;The effects of macromolecular network formation on biological transport processes.&lt;/li&gt;&lt;li&gt;The use of atomic force microscopy in the evaluation of the nanostructure of bone and artificial composite materials.&lt;/li&gt;&lt;/ol&gt;</potentialApplications>
+            <technologyAreas>
+                <technologyAreas>
+                    <code>6</code>
+                    <name>Human Health, Life Support, and Habitation Systems</name>
+                    <priority>PRIMARY</priority>
+                </technologyAreas>
+                <technologyAreas>
+                    <code>6.3</code>
+                    <name>Human Health and Performance</name>
+                    <priority>PRIMARY</priority>
+                </technologyAreas>
+            </technologyAreas>
+            <technologyMaturityStart>2</technologyMaturityStart>
+            <technologyMaturityCurrent>2</technologyMaturityCurrent>
+            <technologyMaturityEnd>3</technologyMaturityEnd>
+            <performanceParameters/>
+        </technology>
+    </technologies>
+    <benefitsNASAFunded>&lt;p&gt;The research can only go so far on Earth because gravity keeps the protein structures from growing beyond a certain size in the labora&amp;shy;tory before they collapse of their own weight. Scientists want to send a container holding the proteins to the International Space Station to find out if protein strands grow as the researchers expect. If their theory holds, the proteins should clump together in larger structures than are seen in Earth&amp;rsquo;s normal gravity.&lt;/p&gt;&lt;p&gt;The project is scheduled to fly on Nanoracks in September 2014.&lt;/p&gt;</benefitsNASAFunded>
+    <benefitsOGA>&lt;p&gt;The potential benefit of this technology is to understand the mechanism for several diseases in the US and world population including chronic traumatic encephalopathy, Parkinson&amp;#39;s Disease and Alzheimer&amp;#39;s Disease.&lt;/p&gt;</benefitsOGA>
+    <leadCenter>
+        <name>Kennedy Space Center</name>
+        <acronym>KSC</acronym>
+        <city>Kennedy Space Center</city>
+        <state>FL</state>
+    </leadCenter>
+    <supportingCenters>
+        <supportingCenter>
+            <name>Glenn Research Center</name>
+            <acronym>GRC</acronym>
+            <city>Cleveland</city>
+            <state>OH</state>
+        </supportingCenter>
+    </supportingCenters>
+    <workLocations>
+        <workLocation>Florida</workLocation>
+        <workLocation>Ohio</workLocation>
+    </workLocations>
+    <otherOrganizationsPerformingWork>
+        <organization>
+            <name>Florida Institute of Technology (FIT)</name>
+            <type>Commercial Company</type>
+        </organization>
+        <organization>
+            <name>QinetiQ North America/ESC</name>
+            <type>Commercial Company</type>
+        </organization>
+    </otherOrganizationsPerformingWork>
+    <responsibleMissionDirectorateOrOffice>Space Technology Mission Directorate</responsibleMissionDirectorateOrOffice>
+    <responsibleProgram>Center Innovation Fund: KSC CIF Program</responsibleProgram>
+    <programDirectors>
+        <programDirector>John Falker</programDirector>
+    </programDirectors>
+    <programExecutives>
+        <programExecutive>John Falker</programExecutive>
+    </programExecutives>
+    <programManagers>
+        <programManager>Nancy Zeitlin</programManager>
+    </programManagers>
+    <projectManagers>
+        <projectManager>David Tipton</projectManager>
+    </projectManagers>
+    <principalInvestigators>
+        <principalInvestigator>David Tipton</principalInvestigator>
+    </principalInvestigators>
+    <coInvestigators>
+        <coInvestigator>Daniel Woodard</coInvestigator>
+    </coInvestigators>
+    <startDate>Sep 2012</startDate>
+    <endDate>Sep 2014</endDate>
+</item>

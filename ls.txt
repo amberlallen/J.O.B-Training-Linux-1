@@ -1,0 +1,15 @@
+total 56
+-rw-r--r--  1 amberlallen staff  6478 Jun  5 10:52 README.md
+-rw-r--r--  1 amberlallen staff 11357 Jun  5 10:52 LICENSE
+-rw-r--r--  1 amberlallen staff   271 Jun  5 10:52 phonebook.csv
+-rw-r--r--  1 amberlallen staff  1909 Jun  5 10:52 gettysburg-address.txt
+-rw-r--r--  1 amberlallen staff  2228 Jun  5 10:52 exercise5.md
+-rw-r--r--  1 amberlallen staff  4203 Jun  5 10:52 exercise4.md
+-rw-r--r--  1 amberlallen staff  3122 Jun  5 10:52 exercise3.md
+-rw-r--r--  1 amberlallen staff  2646 Jun  5 10:52 exercise2.md
+-rw-r--r--  1 amberlallen staff   149 Jun  5 10:52 cutpractice.txt
+drwxr-xr-x  9 amberlallen staff   306 Jun  5 11:03 ..
+-rw-r--r--  1 amberlallen staff    70 Jun  5 11:04 pwd.txt
+drwxr-xr-x 14 amberlallen staff   476 Jun  5 13:17 .git
+-rw-r--r--  1 amberlallen staff     0 Jun  5 13:17 ls.txt
+drwxr-xr-x 14 amberlallen staff   476 Jun  5 13:17 .

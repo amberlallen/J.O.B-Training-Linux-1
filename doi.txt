@@ -1,0 +1,159 @@
+HTTP/1.1 303 See Other
+Server: Apache-Coyote/1.1
+Vary: Accept
+Location: https://data.crossref.org/10.5555%2F515151
+Expires: Thu, 08 Jun 2017 14:59:46 GMT
+Content-Type: text/html;charset=utf-8
+Content-Length: 169
+Date: Thu, 08 Jun 2017 14:08:34 GMT
+
+HTTP/1.1 200 OK
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Headers: X-Requested-With, Accept, Accept-Encoding, Accept-Charset, Accept-Language, Accept-Ranges, Cache-Control
+Access-Control-Expose-Headers: Link
+Link: <http://dx.doi.org/10.5555/515151>; rel="canonical", <http://annalsofpsychoceramics.labs.crossref.org/fulltext/10.5555/515151.pdf>; version="vor"; type="application/pdf"; rel="item", <http://annalsofpsychoceramics.labs.crossref.org/fulltext/10.5555/515151.xml>; version="vor"; type="application/xml"; rel="item", <http://www.crossref.org/license>; version="vor"; rel="license", <http://creativecommons.org/licenses/by/3.0/deed.en_US>; version="vor"; rel="license", <http://orcid.org/0000-0002-1825-0097>; title="Josiah Carberry"; rel="author"
+Content-Type: application/vnd.crossref.unixsd+xml
+Content-Length: 8227
+Server: http-kit
+Date: Thu, 08 Jun 2017 14:08:35 GMT
+X-Rate-Limit-Limit: 50
+X-Rate-Limit-Interval: 1s
+Connection: close
+
+<?xml version="1.0" encoding="UTF-8"?>
+<crossref_result xmlns="http://www.crossref.org/qrschema/3.0" version="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.crossref.org/qrschema/3.0 http://www.crossref.org/schemas/crossref_query_output3.0.xsd">
+  <query_result>
+    <head>
+      <doi_batch_id>none</doi_batch_id>
+    </head>
+    <body>
+      <query status="resolved">
+        <doi type="journal_article">10.5555/515151</doi>
+        <crm-item name="publisher-name" type="string">CrossRef Test Account</crm-item>
+        <crm-item name="prefix-name" type="string" />
+        <crm-item name="member-id" type="number">7822</crm-item>
+        <crm-item name="citation-id" type="number">61425744</crm-item>
+        <crm-item name="journal-id" type="number">209225</crm-item>
+        <crm-item name="deposit-timestamp" type="number">20130220090029</crm-item>
+        <crm-item name="owner-prefix" type="string">10.5555</crm-item>
+        <crm-item name="last-update" type="date">2014-06-05T18:30:20Z</crm-item>
+        <crm-item name="created" type="date">2013-04-02T10:33:26Z</crm-item>
+        <crm-item name="citedby-count" type="number">0</crm-item>
+        <doi_record>
+          <crossref xmlns="http://www.crossref.org/xschema/1.1" xsi:schemaLocation="http://www.crossref.org/xschema/1.1 http://doi.crossref.org/schemas/unixref1.1.xsd">
+            <journal>
+              <journal_metadata language="en">
+                <full_title>Annals of Psychoceramics B</full_title>
+                <abbrev_title>Annals Psychoceramics B</abbrev_title>
+                <issn media_type="print">5555-5152</issn>
+                <issn media_type="electronic">5555-6167</issn>
+              </journal_metadata>
+              <journal_issue>
+                <publication_date media_type="print">
+                  <year>2013</year>
+                </publication_date>
+                <journal_volume>
+                  <volume>2013</volume>
+                </journal_volume>
+              </journal_issue>
+              <journal_article publication_type="full_text">
+                <titles>
+                  <title>The Global State of Psychoceramics Research</title>
+                </titles>
+                <contributors>
+                  <person_name sequence="first" contributor_role="author">
+                    <given_name>Josiah</given_name>
+                    <surname>Carberry</surname>
+                    <ORCID authenticated="true">http://orcid.org/0000-0002-1825-0097</ORCID>
+                  </person_name>
+                </contributors>
+                <publication_date media_type="print">
+                  <month>2</month>
+                  <day>3</day>
+                  <year>2013</year>
+                </publication_date>
+                <pages>
+                  <first_page>1</first_page>
+                  <last_page>8</last_page>
+                </pages>
+                <publisher_item>
+                  <identifier id_type="pii">515151</identifier>
+                  <identifier id_type="other">515151</identifier>
+                </publisher_item>
+                <crossmark>
+                  <crossmark_version>1</crossmark_version>
+                  <crossmark_policy>10.5555/crossmark_policy</crossmark_policy>
+                  <crossmark_domains>
+                    <crossmark_domain>
+                      <domain>annalsofpsychoceramics.labs.crossref.org</domain>
+                    </crossmark_domain>
+                  </crossmark_domains>
+                  <crossmark_domain_exclusive>true</crossmark_domain_exclusive>
+                  <custom_metadata>
+                    <assertion name="orcid" label="ORCID" group_name="identifiers" group_label="Identifiers" order="0" href="http://orcid.org/0000-0002-1825-0097">http://orcid.org/0000-0002-1825-0097</assertion>
+                    <assertion name="received" label="Received" group_name="publication_history" group_label="Publication History" order="0">2013-02-01</assertion>
+                    <assertion name="reviewed" label="Reviewed" group_name="publication_history" group_label="Publication History" order="2">2013-02-01</assertion>
+                    <assertion name="accepted" label="Accepted" group_name="publication_history" group_label="Publication History" order="1">2013-02-02</assertion>
+                    <assertion name="published" label="Published" group_name="publication_history" group_label="Publication History" order="2">2013-02-03</assertion>
+                    <fr:program xmlns:fr="http://www.crossref.org/fundref.xsd" name="fundref">
+                      <fr:assertion name="fundgroup">
+                        <fr:assertion name="funder_name">
+                          National Science Foundation
+                          <fr:assertion name="funder_identifier" />
+                        </fr:assertion>
+                        <fr:assertion name="award_number">psychoceramics-1152342</fr:assertion>
+                      </fr:assertion>
+                      <fr:assertion name="fundgroup">
+                        <fr:assertion name="funder_name">
+                          Basic Energy Sciences, Office of Science, U.S. Department of Energy
+                          <fr:assertion name="funder_identifier" />
+                        </fr:assertion>
+                        <fr:assertion name="award_number">high-energy-metaphysics-SC0001091</fr:assertion>
+                      </fr:assertion>
+                    </fr:program>
+                    <ai:program xmlns:ai="http://www.crossref.org/AccessIndicators.xsd" name="AccessIndicators">
+                      <ai:license_ref start_date="2013-02-03">http://www.crossref.org/license</ai:license_ref>
+                    </ai:program>
+                    <ai:program xmlns:ai="http://www.crossref.org/AccessIndicators.xsd" name="AccessIndicators">
+                      <ai:license_ref start_date="2014-02-03">http://creativecommons.org/licenses/by/3.0/deed.en_US</ai:license_ref>
+                    </ai:program>
+                  </custom_metadata>
+                </crossmark>
+                <doi_data>
+                  <doi>10.5555/515151</doi>
+                  <timestamp>20130220090029</timestamp>
+                  <resource>http://annalsofpsychoceramics.labs.crossref.org/abstract/515151/</resource>
+                  <collection property="crawler-based" setbyID="creftest">
+                    <item crawler="google">
+                      <resource>http://annalsofpsychoceramics.labs.crossref.org/fulltext/515151/515151.pdf</resource>
+                    </item>
+                    <item crawler="msn">
+                      <resource>http://annalsofpsychoceramics.labs.crossref.org/fulltext/515151/515151.pdf</resource>
+                    </item>
+                    <item crawler="altavista">
+                      <resource>http://annalsofpsychoceramics.labs.crossref.org/fulltext/515151/515151.pdf</resource>
+                    </item>
+                    <item crawler="yahoo">
+                      <resource>http://annalsofpsychoceramics.labs.crossref.org/fulltext/515151/515151.pdf</resource>
+                    </item>
+                    <item crawler="scirus">
+                      <resource>http://annalsofpsychoceramics.labs.crossref.org/fulltext/515151/515151.pdf</resource>
+                    </item>
+                  </collection>
+                  <collection property="text-mining" setbyID="creftest">
+                    <item>
+                      <resource mime_type="application/pdf">http://annalsofpsychoceramics.labs.crossref.org/fulltext/10.5555/515151.pdf</resource>
+                    </item>
+                    <item>
+                      <resource mime_type="application/xml">http://annalsofpsychoceramics.labs.crossref.org/fulltext/10.5555/515151.xml</resource>
+                    </item>
+                  </collection>
+                </doi_data>
+              </journal_article>
+            </journal>
+          </crossref>
+        </doi_record>
+      </query>
+    </body>
+  </query_result>
+</crossref_result>

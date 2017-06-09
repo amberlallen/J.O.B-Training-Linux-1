@@ -1,0 +1,4 @@
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/disk1                         233G  201G   32G  87% /
+localhost:/9rOhEm93sEgIWHm3w2gM1K  233G  233G     0 100% /Volumes/MobileBackups
+/dev/disk3                         1.9T  1.8T  102G  95% /Volumes/My Passport
